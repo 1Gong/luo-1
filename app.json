@@ -1,0 +1,17 @@
+{
+  "pages": [
+    "pages/begin/demo01",
+    "pages/home/home",
+    "pages/choosearea/choosearea",
+    "pages/logs/logs",
+    "pages/mobilenet/mobilenet",
+    "pages/curveCharts/curveCharts"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json"
+}
